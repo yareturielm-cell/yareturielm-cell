@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="1280" height="278" alt="Banner de Uriel" src="hhttps://i.pinimg.com/736x/42/2a/b1/422ab1b4244d392caad67de22d7b489d.jpg />
+<img width="100%" src="hhttps://i.pinimg.com/736x/42/2a/b1/422ab1b4244d392caad67de22d7b489d.jpg" />
 
 # 🌻 Uriel
-
-<sub>Ingeniería en Inteligencia Artificial · México</sub>
 
 <br />
 
