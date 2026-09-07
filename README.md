@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="hhttps://i.pinimg.com/736x/42/2a/b1/422ab1b4244d392caad67de22d7b489d.jpg" />
+<img width="1280" height="278" alt="Banner rústico veraniego de Uriel" src="https://i.pinimg.com/736x/42/2a/b1/422ab1b4244d392caad67de22d7b489d.jpg" />
 
 # 🌻 Uriel
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C56A3A&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Uriel+%F0%9F%8C%9E;Estudiante+de+Ingenier%C3%ADa+en+IA+%F0%9F%A4%96;Aprendiendo%2C+creando+y+evolucionando+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C56A3A&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Uriel+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+IA+%F0%9F%A4%96;Aprendiendo%2C+creando+y+evolucionando+%F0%9F%8C%B1" />
 
 </div>
 
